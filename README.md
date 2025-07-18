@@ -1,7 +1,7 @@
 # Sentiment140 Fine-Tuning using
 DistilBERT (Stanford Dataset)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HatemMoushir/sentiment/blob/main_sentiment140_distilbert.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HatemMoushir/sentiment/blob/main/sentiment140_distilbert.ipynb)
 
 This project demonstrates how to fine-tune the `distilbert-base-uncased` model on the **Sentiment140** dataset from Stanford using Hugging Face Transformers.
 
